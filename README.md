@@ -42,7 +42,7 @@ This project showcases an interactive and dynamic **Power BI dashboard** analyzi
 ### 📝 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/fifa-world-cup-dashboard.git
+   git clone https://github.com/athiraa12/World-cup-results.git
    ```
 2. Open the `.pbix` file in **Power BI Desktop**.  
 3. Explore the interactive dashboard and insights.  
