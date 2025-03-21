@@ -50,7 +50,7 @@ This project showcases an interactive and dynamic **Power BI dashboard** analyzi
 ---
 
 ### 📸 Dashboard Preview
-![Dashboard Preview]("https://github.com/athiraa12/World-cup-results/blob/18cf0d90cbd3002114cacf5af802ff851ece0928/world%20cup%20results%20dahsboard.png")
+[Dashboard Preview]("https://github.com/athiraa12/World-cup-results/blob/18cf0d90cbd3002114cacf5af802ff851ece0928/world%20cup%20results%20dahsboard.png")
 
 ---
 
